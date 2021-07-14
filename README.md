@@ -10,6 +10,9 @@ python -m pip install -r schedule
 ```
 
 ## 2. Configure your settings in `utils.py`.
+### Sign up for free twilio account
+https://www.twilio.com/try-twilio
+
 ```py
 account_sid = 'ACd29as291d09032d942848da71897a4817b' #example
 auth_token = 'f8a5f8as5f785g61j6j45gfh3fgh623g5' #example
